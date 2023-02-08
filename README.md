@@ -11,7 +11,7 @@
 - :writing_hand: &nbsp;Read my articles on [Medium](https://medium.com/@abi shake)
 - :speech_balloon: &nbsp;I like to talk about **python** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
-- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/Abishake/)
+- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/abishake-t-835428257/)
 - 📫 How to reach me **abisheck0904@gmail.com**
 - :bird: &nbsp;Let's talk more in [Twitter](https://twitter.com/Abishake2597211)
 
