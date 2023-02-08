@@ -9,9 +9,9 @@
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"26
 - 👨‍💼: &nbsp; [GSOC"22](https://summerofcode.withgoogle.com/programs/2022/projects/TbEfG95X) **Open Source Contributor**
 - :writing_hand: &nbsp;Read my articles on [Medium](https://medium.com/@abi shake)
-- :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**
+- :speech_balloon: &nbsp;I like to talk about **python** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
-- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/Abi shake/)
+- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/Abishake/)
 - 📫 How to reach me **abisheck0904@gmail.com**
 - :bird: &nbsp;Let's talk more in [Twitter](https://twitter.com/Abishake2597211)
 
